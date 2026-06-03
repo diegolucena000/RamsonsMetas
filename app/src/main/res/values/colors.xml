@@ -15,4 +15,5 @@
     <color name="white">#FFFFFF</color>
     <color name="nav_active">#4F6EF7</color>
     <color name="nav_inactive">#64748B</color>
+    <color name="nav_item_color">#4F6EF7</color>
 </resources>
