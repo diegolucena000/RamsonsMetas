@@ -25,7 +25,7 @@ jobs:
           gradle-version: '8.2'
 
       - name: Build APK
-        run: gradle assembleDebug
+        run: gradle :app:assembleDebug
         env:
           ANDROID_HOME: ${{ env.ANDROID_HOME }}
 
